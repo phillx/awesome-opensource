@@ -5,7 +5,7 @@
 ### Frameworks
 
 
-[Laravel]:https://laravel.com - MVC Framework
+Laravel : https://laravel.com - MVC Framework
 
-[Lumen]:http://lumen.laravel.com - MicroFramework by Laravel
+Lumen : http://lumen.laravel.com - MicroFramework by Laravel
 
